@@ -1,0 +1,11 @@
+{
+  "name": "yeoman-notes",
+  "version": "1.0.0",
+  "description": "Yeoman notes.",
+  "homepage": "https://github.com/afeiship/yeoman-notes",
+  "author": {
+    "name": "afeiship",
+    "email": "1290657123@qq.com"
+  },
+  "license": "MIT"
+}
